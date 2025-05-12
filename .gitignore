@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# Environment files (contains sensitive information like API keys)
+.env
+
+# Log files
+*.log
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Build directories
+dist/
+build/
+
+# MacOS specific files
+.DS_Store
+
+# VS Code specific files
+.vscode/
+
+# IDE specific files
+.idea/
+
+# Operating system files
+Thumbs.db
